@@ -1,0 +1,4 @@
+node_modules/
+configs/KEYS.env
+.env
+*.log
