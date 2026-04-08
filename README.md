@@ -81,7 +81,7 @@ My goal here is to improve my JS skills, create something *useful* and make it a
   - **Structure**
   1. script.js executes codes using `spawn()`
   2. with this, executes a script in `scripts/yt-dlp.py`
-  3. this ass snake python script spits a stOut with the file filename saved in `temp/temp_downloads`
+  3. this ass snake python script spits a stdOut with the file filename saved in `temp/temp_downloads`
   4. the script.js makes the rest and so.
   5. AAH BORRING...
 
